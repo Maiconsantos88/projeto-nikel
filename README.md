@@ -53,7 +53,6 @@ Projeto desenvolvido durante o curso de Desenvolvimento Web da Growdev (Codaí 2
 
 <img src="./assets/images/certificado-growdev.png" width="600">
 
-📄 [Ver certificado em PDF](./assets/images/certificado-growdev.pdf)
 
 ---
 
